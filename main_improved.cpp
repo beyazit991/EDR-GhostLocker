@@ -3,7 +3,6 @@
 #include <Windows.h>
 #include <iostream>
 #include <string>
-#include "ntdefs.h"
 #include <TlHelp32.h>
 #include <vector>
 
